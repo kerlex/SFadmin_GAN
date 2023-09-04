@@ -1,2 +1,2 @@
 /ansible/hosts
-/etc/ansible/common/files/id_rsa.pub
+/ansible/common/files/id_rsa.pub
