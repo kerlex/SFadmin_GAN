@@ -1,0 +1,4 @@
+/ansible/hosts
+/ansible/playbooks/install_redis.yml
+/ansible/playbooks/install_zabbix-agent.yml
+/ansible/common/files/id_rsa.pub
